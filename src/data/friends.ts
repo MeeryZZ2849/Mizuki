@@ -15,17 +15,17 @@ export const friendsData: FriendItem[] = [
 	{
 		id: 1,
 		title: "晚空喵喵",
-		imgurl: "https://blog.twilightnya.top/",
+		imgurl: "hhttps://blog.twilightnya.top/assets/images/logo.jpg",
 		desc: "博主的一位朋友",
-		siteurl: "https://blog.twilightnya.top/assets/images/logo.jpg",
+		siteurl: "https://blog.twilightnya.top/",
 		tags: ["Blog","Friends"],
 	},
 	{
 		id: 2,
 		title: "冬屿清",
-		imgurl: "https://blog.ryofork.top/",
+		imgurl: "https://blog.ryofork.top/_astro/ryofork.MWd7THJS_Z1OoGM1.webp/",
 		desc: "博主的一位朋友",
-		siteurl: "https://blog.ryofork.top/_astro/ryofork.MWd7THJS_Z1OoGM1.webp",
+		siteurl: "https://blog.ryofork.top/",
 		tags: ["Blog","Friends"],
 	},
 ];
