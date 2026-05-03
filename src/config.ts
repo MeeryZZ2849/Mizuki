@@ -281,7 +281,7 @@ export const navBarConfig: NavBarConfig = {
 			children: [
 				{
 					name: "GitHub",
-					url: "https://github.com/matsuzaka-yuki/Mizuki",
+					url: "https://github.com/MeeryZZ2849/Mizuki/tree/main",
 					external: true,
 					icon: "fa7-brands:github",
 				},
@@ -290,12 +290,6 @@ export const navBarConfig: NavBarConfig = {
 					url: "https://space.bilibili.com/3546921169848454",
 					external: true,
 					icon: "fa7-brands:bilibili",
-				},
-				{
-					name: "Gitee",
-					url: "https://gitee.com/matsuzakayuki/Mizuki",
-					external: true,
-					icon: "mdi:git",
 				},
 			],
 		},
