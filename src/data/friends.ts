@@ -14,11 +14,19 @@ export interface FriendItem {
 export const friendsData: FriendItem[] = [
 	{
 		id: 1,
-		title: "久光",
-		imgurl: "https://blog.moonlightmc.asia",
+		title: "晚空喵喵",
+		imgurl: "https://blog.twilightnya.top/",
 		desc: "博主的一位朋友",
-		siteurl: "https://blog.moonlightmc.asia",
-		tags: ["Framework"],
+		siteurl: "https://blog.twilightnya.top/assets/images/logo.jpg",
+		tags: ["Blog","Friends"],
+	},
+	{
+		id: 2,
+		title: "冬屿清",
+		imgurl: "https://blog.ryofork.top/",
+		desc: "博主的一位朋友",
+		siteurl: "https://blog.ryofork.top/_astro/ryofork.MWd7THJS_Z1OoGM1.webp",
+		tags: ["Blog","Friends"],
 	},
 ];
 
