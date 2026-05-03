@@ -15,7 +15,7 @@ export const friendsData: FriendItem[] = [
 	{
 		id: 1,
 		title: "晚空喵喵",
-		imgurl: "hhttps://blog.twilightnya.top/assets/images/logo.jpg",
+		imgurl: "https://blog.twilightnya.top/assets/images/logo.jpg",
 		desc: "博主的一位朋友",
 		siteurl: "https://blog.twilightnya.top/",
 		tags: ["Blog","Friends"],
